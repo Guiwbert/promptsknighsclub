@@ -1,0 +1,8 @@
+{
+  "style": "crochet line art animation",
+  "description": "A cozy handcrafted animation where every element is made entirely of crochet thread lines. Characters, background and objects are formed by delicate interlaced yarn loops in warm earthy tones: cream, terracotta, sage green, dusty rose and soft beige. The threads are visible and textured, showing the knot details and wool texture of real crochet. Everything moves with a soft gentle wobble as if the yarn is being stitched in real time. The background is a simple fabric texture in neutral linen color.",
+  "animation": "slow and gentle movement, threads forming shapes progressively, soft loop animation",
+  "lighting": "warm soft diffused light, no harsh shadows, cozy indoor feeling",
+  "quality": "high detail on thread texture, macro-level yarn visibility, smooth frame transitions",
+  "negative": "no photorealism, no 3D render, no digital look, no sharp edges, no neon colors"
+}

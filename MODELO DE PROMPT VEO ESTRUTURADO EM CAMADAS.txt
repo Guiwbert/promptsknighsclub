@@ -1,0 +1,21 @@
+Modelo de Prompt Estruturado em Camadas (Padrão Omni)
+
+[Layer 1: Character & Identity]
+A continuous video sequence featuring a [descreva a etnia e idade, ex: 25-year-old Caucasian] woman. She maintains strict facial identity and identical bone structure across all frames. Natural skin texture with visible epidermal micro-pores, subtle micro-asymmetry in facial features, and realistic subsurface scattering on her skin. No artificial filters or smooth skins.
+
+[Layer 2: Outfit & Setting]
+She is wearing [descreva a roupa com total liberdade, ex: an elegant silk emerald green dress / a casual denim jacket with a white t-shirt]. The "Knights Club" logo from the reference asset is printed strictly as a crisp, solid graphic stamp flat on the center of her shirt's fabric, completely isolated from her skin with no bleeding. She is located inside [descreva o cenário com total liberdade, ex: a modern minimalist living room / a vibrant urban coffee shop] which remains perfectly stable and structurally consistent throughout the video.
+
+[Layer 3: Camera Movement, Action & Dialogue]
+The camera is locked in a stable [escolha o enquadramento, ex: medium close-up shot / chest-up framing] at eye level, capturing subtle organic handheld micro-movements. The character looks directly into the camera lens with a highly engaging and spontaneous personality. Her lips move in flawless, realistic articulation, perfectly synchronized as she speaks fluidly in natural Brazilian Portuguese, delivering the exact dialogue: "[Insira a sua frase aqui com todos os números por extenso, ex: Só na Knights Club você acessa tudo por sessenta e sete reais!]"
+
+[Layer 4: Lighting & Rendering Parparameters]
+Clean and realistic [escolha a iluminação, ex: soft ambient indoor daylight / cinematic chiaroscuro studio lighting] that casts accurate, natural shadows. Natural hair dynamics and realistic physical fabric tension as she moves. Professional shallow depth of field with a softly blurred background. Perfect frame-to-frame continuity, high-fidelity execution, zero flickering, no watermarks, no subtitles.
+
+
+Como usar esse modelo na prática:
+Mantenha os colchetes de categorias [...]: Eles ajudam a IA do Veo a tokenizar e separar o que é pessoa, o que é roupa/cenário e o que é ação.
+
+Preencha as variáveis em inglês: O motor Omni processa a semântica de forma muito mais profunda em inglês.
+
+Mantenha a frase em português: A única parte que deve ficar em português é o texto entre aspas dentro da Layer 3, que é onde a IA vai ler para fazer a dublagem e o lip-sync.
