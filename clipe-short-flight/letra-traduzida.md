@@ -10,7 +10,7 @@ Tempo de entrada de cada linha medido no áudio (mm:ss). Tradução pensada para
 | 0:32 | Everything's in its place... or at least, it tries. | Tudo no seu lugar... ou pelo menos, tenta. |
 | 0:50 | The beer gets warm, an open book on the wood. | A cerveja esquenta, um livro aberto na madeira. |
 | 0:54 | No rush at all. Doing just what I should. | Sem pressa nenhuma. Fazendo só o que devo. |
-| 0:57 | Just the low hum of the world outside the pane. | Só o zumbido baixo do mundo do lado de fora do vidro. |
+| 0:57 | Just the low hum of the world outside the pane. | Só o zumbido baixo do mundo além do vidro. |
 | 1:01 | And me right here, watching time go down the drain. | E eu aqui, vendo o tempo escorrer pelo ralo. |
 | 1:04 | Silence has its own sound, or so it seems. | O silêncio tem seu próprio som, ou assim parece. |
 | 1:07 | A murmur of nothing. A hollow of dreams. | Um murmúrio de nada. Um vazio de sonhos. |
